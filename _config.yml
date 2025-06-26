@@ -22,7 +22,7 @@ repository               : "https://github.com/CyyMy/cyymy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mine.png"
   name             : "Yuan-Yuan Cheng"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc"
