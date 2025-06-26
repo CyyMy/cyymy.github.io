@@ -3,7 +3,7 @@ title: "Exact and Efficient Intersection Resolution for Mesh Arrangements"
 collection: publications
 date: 2025-04-10
 venue: 'Computer Graphics Forum (Proc. Eurographics)'
-issue: "43(6)"
+issue: "44(2)"
 link: "https://doi.org/10.1111/cgf.70027"
 doi: "10.1111/cgf.70027"
 authors: 
