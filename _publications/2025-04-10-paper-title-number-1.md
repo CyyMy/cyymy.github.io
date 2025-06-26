@@ -1,5 +1,5 @@
 ---
-title: "Exact and Efficient Intersection Resolution for Mesh Arrangements"
+title: "Eigenvalue Blending for Projected Newton"
 collection: publications
 date: 2025-04-10
 venue: 'Computer Graphics Forum (Proc. Eurographics)'
