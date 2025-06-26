@@ -9,7 +9,7 @@ doi: "10.1111/cgf.70027"
 authors: 
   - name: "Yuan-Yuan Cheng"
     url: "https://cyymy.github.io/"
-   - name: "Ligang Liu"
+  - name: "Ligang Liu"
     url: "http://staff.ustc.edu.cn/~lgliu/"
   - name: "Xiao-Ming Fu"
     url: "https://ustc-gcl-f.github.io/"
