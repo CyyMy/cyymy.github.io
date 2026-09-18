@@ -2,7 +2,10 @@
 title: "Developable Approximation via Isomap on Gauss Image"
 collection: publications
 date: 2025-05-05
-venue: 'IEEE Transactions on Visualization and Computer Graphics (Early Access)'
+publication_month: "2025-10"
+venue: 'IEEE Transactions on Visualization and Computer Graphics'
+issue: "31(10)"
+pages: "8310-8319"
 link: "https://doi.org/10.1109/TVCG.2025.3566887"
 doi: "10.1109/TVCG.2025.3566887"
 authors: 

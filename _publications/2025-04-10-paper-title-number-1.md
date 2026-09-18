@@ -2,6 +2,7 @@
 title: "Eigenvalue Blending for Projected Newton"
 collection: publications
 date: 2025-04-10
+publication_month: "2025-05"
 venue: 'Computer Graphics Forum (Proc. Eurographics)'
 issue: "44(2)"
 link: "https://doi.org/10.1111/cgf.70027"
