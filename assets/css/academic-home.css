@@ -13,13 +13,13 @@ a:link,a:visited,a:hover,a:active,.paper-details h3 a,.paper-details h3 a:hover,
 
 /* Give every publication figure a larger, uncropped display area. */
 .publication{margin-bottom:20px}
-.publication.has-image{grid-template-columns:300px minmax(0,1fr)}
-.paper-image{width:100%;max-width:300px;height:auto;max-height:220px;object-fit:contain}
+.publication.has-image{grid-template-columns:260px minmax(0,1fr)}
+.paper-image{width:100%;max-width:260px;height:auto;max-height:184px;object-fit:contain}
 @media(max-width:1100px){
-  .publication.has-image{grid-template-columns:240px minmax(0,1fr)}
-  .paper-image{max-width:240px;height:auto;max-height:180px}
+  .publication.has-image{grid-template-columns:220px minmax(0,1fr)}
+  .paper-image{max-width:220px;height:auto;max-height:164px}
 }
 @media(max-width:640px){
   .publication.has-image{grid-template-columns:minmax(0,1fr);gap:14px}
-  .paper-image{width:300px;max-width:100%;height:auto;max-height:220px;justify-self:center}
+  .paper-image{width:260px;max-width:100%;height:auto;max-height:184px;justify-self:center}
 }
