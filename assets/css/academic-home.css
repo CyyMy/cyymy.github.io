@@ -11,16 +11,15 @@ a:link,a:visited,a:hover,a:active,.paper-details h3 a,.paper-details h3 a:hover,
 .paper-details .venue{font-family:inherit;font-style:normal}
 .publication-year{font-size:19px;line-height:1.4;margin:26px 0 21px;color:var(--ink)}
 
-/* Compact rows with full, uncropped figures and top-aligned text. */
-.publication{margin-bottom:12px;align-items:start}
+/* Balanced rows with full, uncropped figures and centered text. */
+.publication{margin-bottom:20px;align-items:center}
 .publication.has-image{grid-template-columns:260px minmax(0,1fr)}
-.paper-image{width:100%;max-width:260px;height:auto;max-height:150px;object-fit:contain}
-.paper-details p:last-child{margin-bottom:0}
+.paper-image{width:100%;max-width:260px;height:auto;max-height:184px;object-fit:contain}
 @media(max-width:1100px){
   .publication.has-image{grid-template-columns:220px minmax(0,1fr)}
-  .paper-image{max-width:220px;height:auto;max-height:140px}
+  .paper-image{max-width:220px;height:auto;max-height:164px}
 }
 @media(max-width:640px){
-  .publication.has-image{grid-template-columns:minmax(0,1fr);gap:10px}
-  .paper-image{width:260px;max-width:100%;height:auto;max-height:150px;justify-self:center}
+  .publication.has-image{grid-template-columns:minmax(0,1fr);gap:14px}
+  .paper-image{width:260px;max-width:100%;height:auto;max-height:184px;justify-self:center}
 }
